@@ -1,0 +1,23 @@
+header{
+    width: 100%;color: rgb(0, 161, 201);
+    margin: 10px;
+    border:10px; color: #19affa;
+    text-align: center;
+    padding: 0px;
+}
+nav{
+    width: 200px;color: rgb(240, 248, 255);
+    border: 10px;color: rgb(73, 143, 205);
+    text-align: left;
+    padding: 0%;
+    margin: 10px;color: black;
+}
+footer{
+    width: 100%;color: rgb(0, 161, 201);
+    border: 100px;color: #19affa; ;
+    text-align: center;
+    padding: 10px;
+}
+h1{
+    font-size: 20px;color: rgb(38, 97, 99);
+}
