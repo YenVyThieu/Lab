@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(0, 255, 255, 0.16);
+}
+table{
+    border-collapse: collapse;
+    padding: 2px;
+    box-shadow: 8px hsl(120, 100%, 30%);
+    background-color: aquamarine;
+    margin: 2px;
+    border: 3px solid rgb(95, 160, 130);
+    width: 1000px;
+}
+td, tr{
+    border: 2px black solid
+}
+caption{
+    background-color: aquamarine;
+    padding: 10px;
+    margin: 10px;
+    font-size: 200px rgb(0, 109, 62);
+    font-family: Times, serif;
+    height: 40px;
+    text-align: center;
+    text-decoration: dashed underline;
+}
+th{
+    background-color: rgb(42, 252, 182);
+    padding: 5px;
+    margin: 5px;
+    font-size: 100px rgb(0, 109, 62);
+    font-family: Times, serif;
+    height: 40px;
+    text-align: center;
+    border: 2px solid black;
+}

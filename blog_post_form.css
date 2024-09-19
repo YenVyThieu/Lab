@@ -1,0 +1,32 @@
+body{
+    background-color: #B5CFF5;
+    margin: 10px;
+}
+input{
+    width: 1000px;
+    height: 50px;
+    font-size: large;
+}
+select{
+    box-shadow: #8193ad;
+    border: solid black 2px;
+    font-size: large;
+    width: 60%;
+    height: 10%;
+}
+textarea{
+    width: 1000px;
+    height: 500px;
+    font-size: large;
+}
+h1{
+    color: #516e9f;
+}
+h2{
+    color: #5e80bb;
+}
+button{
+    border: #516e9f  solid 2px;
+    width: 200px;
+    height: 50px;
+}
