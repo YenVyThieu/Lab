@@ -1,0 +1,31 @@
+header {
+    background-color: #f3d8a8;
+    margin: auto;
+    padding: 0%;
+    border: #f3d8a8 solid 3px;
+    text-align: left;
+}
+
+footer {
+    background-color: #f3d8a8;
+    margin: auto;
+    padding: 0%;
+    border: #f3d8a8 solid 3px;
+    text-align: left;
+}
+
+h3,
+h1,
+li,
+p {
+    color: #0b4a3b;
+    font-size: medium;
+}
+
+aside {
+    text-align: left;
+    position: absolute;
+    margin: auto;
+    padding: auto;
+    border: rgb(202, 202, 136) 3px;
+}

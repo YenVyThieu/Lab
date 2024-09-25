@@ -1,0 +1,98 @@
+body{
+    background-color: rgba(0, 255, 255, 0.16);
+}
+table{
+    border-collapse: collapse;
+    padding: 2px;
+    box-shadow: 8px hsl(120, 100%, 30%);
+    background-color: aquamarine;
+    margin: 2px;
+    border: 3px solid rgb(2, 32, 0);
+    width: 1000px;
+}
+td, tr{
+    border: 2px black solid
+}
+caption{
+    background-color: rgb(0, 199, 133);
+    padding: 10px;
+    margin: 10px;
+    font-size: 200px rgb(112, 192, 0);
+    font-family: Times, serif;
+    height: 40px;
+    text-align: center;
+    text-decoration: dashed underline;
+}
+th{
+    background-color: rgb(42, 252, 182);
+    padding: 5px;
+    margin: 5px;
+    font-size: 100px rgb(0, 109, 62);
+    font-family: Times, serif;
+    height: 40px;
+    text-align: center;
+    border: 2px solid black;
+}
+header {
+    background-color: #00edaa;
+    margin: 0%;
+    padding: 10px;
+    text-align: left;
+    width: 100%;
+    height: 100px;
+    position: relative;
+    box-shadow: #003a23 3px;
+}
+
+footer {
+    background-color: #00edaa;
+    margin: 0%;
+    padding: 10px;
+    text-align: left;
+    width: 100%;
+    height: 150px;
+    box-shadow: #003a23 3px;
+    position: relative
+}
+
+h1 {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: #8a8d00;
+    text-shadow: #005f49
+}
+
+aside {
+    float: right;
+    width: 200px;
+    height: 200px;
+    background-color: #00edaa;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    position: sticky;
+}
+
+main {
+    background-color: #6bffd5;
+    margin: 0%;
+    padding: 10px;
+    text-align: left;
+    width: 83%;
+}
+h2{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: #004b2d;
+    text-shadow: #005f49
+}
+h3{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: #288d00;
+    text-shadow: #005f49
+}
+a{
+    font-size: medium;
+    color: darkblue;
+}
